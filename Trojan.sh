@@ -326,11 +326,11 @@ function bbr_boost_sh(){
 start_menu(){
     clear
     green " ===================================="
-    green " Trojan 一键安装自动脚本      "
-    green " 系统：centos7+/debian9+/ubuntu16.04+"
-    green " 网站：www.v2rayssr.com （已开启禁止国内访问）              "
-    green " 此脚本为 atrandys 的，波仔集成了BBRPLUS加速 "
-    green " Youtube：波仔分享                "
+    green " Trojan 一键安装自动脚本"
+    green " 系统: centos7+/debian9+/ubuntu16.04+"
+    green " 网站: https://xiaozhangge-developers-software.blogspot.com/ (已开启禁止国内访问）"
+    green " 此脚本为 atrandys 的,小张哥集成了BBRPLUS加速 "
+    green " Youtube: https://www.youtube.com/小张哥"
     green " ===================================="
     echo
     red " ===================================="
